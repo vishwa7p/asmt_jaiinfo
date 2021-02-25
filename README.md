@@ -1,7 +1,7 @@
 # asmt_jaiinfo
 
-#Manager signup and add employee process.
-This is the code repository for project [my_project using Django rest framework](https://github.com/vishwa7p/mb_full_stack.git)
+# Employee CURD operations process.
+This is the code repository for project [my_project using Django rest framework](https://github.com/vishwa7p/asmt_jaiinfo.git)
 
 I have used Django rest framework to create CURD operations
 
@@ -21,8 +21,8 @@ Now do the following to setup project
 
 cd my_project
 
-# one time
-virtualenv -p $(which python3) pyenv
+# To create venv
+python3 -m venv myenv
 
 source pyenv/bin/activate
 
