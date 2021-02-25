@@ -1,7 +1,7 @@
 # asmt_jaiinfo
 
 # Employee CURD operations process.
-This is the code repository for project [my_project using Django rest framework](https://github.com/vishwa7p/asmt_jaiinfo.git)
+This is the code repository for project [my_project using Django rest framework](https://github.com/vishwa7p/asmt_jaiinfo)
 
 I have used Django rest framework to create CURD operations
 
@@ -17,6 +17,11 @@ First make sure that you have the following installed.
 Now do the following to setup project
 
 ```
+
+```
+here I have used mysql database so plz make sure to make database setup 
+```
+
 # assuming that the project is already cloned.
 
 cd my_project
