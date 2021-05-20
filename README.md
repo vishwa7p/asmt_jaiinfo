@@ -1,4 +1,4 @@
-# asmt_jaiinfo
+# drf_curd_operation
 
 # Employee CURD operations process.
 This is the code repository for project [my_project using Django rest framework](https://github.com/vishwa7p/asmt_jaiinfo)
